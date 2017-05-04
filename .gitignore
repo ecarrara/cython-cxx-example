@@ -1,0 +1,6 @@
+*.py[co]
+*.so
+build/
+temp/
+# auto generated filed
+example/*.cpp
